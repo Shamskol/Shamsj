@@ -1,2 +1,0 @@
-# Shamskol
-Created with CodeSandbox
